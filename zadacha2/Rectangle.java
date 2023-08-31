@@ -1,6 +1,6 @@
 class Rectangle {
-    private Integer width = 20;
-    private Integer height = 10;
+    private Integer width;
+    private Integer height;
     public Rectangle(Integer width, Integer height) {
         this.width = width;
         this.height = height;
